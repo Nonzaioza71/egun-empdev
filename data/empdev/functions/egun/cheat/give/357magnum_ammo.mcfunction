@@ -1,0 +1,1 @@
+give @s iron_nugget{CustomModelData:1002,Tags:[".357magnum_ammo"],EntityTag:{Invisible:1b},display:{Name:'[{"text":".357Magnum Ammo","italic":false}]'},HideFlags:5}

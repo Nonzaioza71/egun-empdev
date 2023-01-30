@@ -1,0 +1,1 @@
+execute as @e[tag=bullet_projectile, tag=!detected] at @s run function empdev:egun/main/run/projectile

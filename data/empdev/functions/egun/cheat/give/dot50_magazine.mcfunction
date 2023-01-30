@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{CustomModelData:2000,Tags:[".50_mag"],EntityTag:{Invisible:1b},display:{Name:'[{"text":".50 Magazine","italic":false}]',Lore:['[{"text":"Maximum : 10","italic":false}]','[{"text":"Ammo : .50","italic":false}]']},HideFlags:5}

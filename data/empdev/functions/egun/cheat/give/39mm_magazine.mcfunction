@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{CustomModelData:2001,Tags:["39mm_mag"],EntityTag:{Invisible:1b},display:{Name:'[{"text":"7.62x39mm Magazine","italic":false}]',Lore:['[{"text":"Maximum : 25","italic":false}]','[{"text":"Ammo : 7.62x39mm","italic":false}]']},HideFlags:5}

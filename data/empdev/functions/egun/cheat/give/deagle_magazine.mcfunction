@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{CustomModelData:2002,Tags:[".deagle_mag"],EntityTag:{Invisible:1b},display:{Name:'[{"text":"deagle Magazine","italic":false}]',Lore:['[{"text":"Maximum : 9","italic":false}]','[{"text":"Ammo : .50","italic":false}]']},HideFlags:5}

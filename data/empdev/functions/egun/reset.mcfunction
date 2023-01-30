@@ -1,0 +1,11 @@
+function empdev:egun/setup/ammomodel
+function empdev:egun/setup/globals
+function empdev:egun/setup/gunmodel
+function empdev:egun/setup/gunstate
+function empdev:egun/setup/magmodel
+function empdev:egun/setup/magstate
+function empdev:egun/setup/physic
+function empdev:egun/setup/player.state
+function empdev:egun/setup/bombstate
+function empdev:egun/setup/settings
+function empdev:egun/setup/main

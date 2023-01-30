@@ -1,0 +1,1 @@
+give @s snowball{CustomModelData:4002,display:{Name:'[{"text":"Gravity Bomb","italic":false}]',Lore:['[{"text":"Damage: 167","italic":false,"color":"red"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Radius: 23 blocks","italic":false,"color":"aqua"}]', '[{"text":"Delay: 9 sec","italic":false,"color":"yellow"}]']}, gravityBomb:1b} 1

@@ -1,0 +1,1 @@
+give @s snowball{CustomModelData:4000,display:{Name:'[{"text":"Touching Bomb","italic":false}]',Lore:['[{"text":"Damage: 22","italic":false,"color":"red"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Radius: 2 blocks","italic":false,"color":"aqua"}]']}, touchingBomb:1b} 1

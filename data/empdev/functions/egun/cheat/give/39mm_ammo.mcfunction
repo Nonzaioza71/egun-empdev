@@ -1,0 +1,1 @@
+give @s iron_nugget{CustomModelData:1001,Tags:["39mm_ammo"],EntityTag:{Invisible:1b},display:{Name:'[{"text":"7.62x39mm Ammo","italic":false}]'},HideFlags:5}

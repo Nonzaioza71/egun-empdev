@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{CustomModelData:2003,Tags:[".python_mag"],EntityTag:{Invisible:1b},display:{Name:'[{"text":"Colt Pythons Magazine","italic":false}]',Lore:['[{"text":"Maximum : 9","italic":false}]','[{"text":"Ammo : .357Magnum","italic":false}]']},HideFlags:5}

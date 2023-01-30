@@ -1,0 +1,2 @@
+execute as @e[type=snowball,nbt={Item:{id:"minecraft:snowball",tag:{touchingBomb:1b}}}] at @s run function empdev:egun/main/run/bomb/main
+execute as @e[type=snowball,nbt={Item:{id:"minecraft:snowball",tag:{gravityBomb:1b}}}] at @s run function empdev:egun/main/run/bomb/main

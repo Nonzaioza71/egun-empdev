@@ -1,0 +1,1 @@
+give @s iron_nugget{CustomModelData:1000,Tags:[".50_ammo"],EntityTag:{Invisible:1b},display:{Name:'[{"text":".50 Ammo","italic":false}]'},HideFlags:5}

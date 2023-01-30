@@ -1,0 +1,1 @@
+item modify entity @s weapon.mainhand empdev:m107/m107_running

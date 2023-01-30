@@ -1,0 +1,2 @@
+execute if entity @s[type=snowball,nbt={Item:{id:"minecraft:snowball",tag:{gravityBomb:1b}}}] run function empdev:egun/main/run/bomb/gravity_bomb
+execute if entity @s[type=snowball,nbt={Item:{id:"minecraft:snowball",tag:{touchingBomb:1b}}}] run function empdev:egun/main/run/bomb/touching

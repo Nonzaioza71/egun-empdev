@@ -1,0 +1,1 @@
+scoreboard players set $setting.explosion.breakblock setting.explosion.breakblock 1

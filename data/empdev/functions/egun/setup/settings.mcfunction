@@ -1,0 +1,1 @@
+scoreboard objectives add setting.explosion.breakblock dummy
